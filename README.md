@@ -1,4 +1,4 @@
-# esp8266_heating_monitroring
+# esp8266_heating_monitoring
 Monitor radiator heater wattage using esp8266 with Nodemcu firmware and 3 x DS18B20 thermometers
 
 Its intention is to measure inlet and outlet water temperature and ambient temp, to apply the formula found in http://www.engineeringtoolbox.com/heat-emission-radiators-d_272.html
